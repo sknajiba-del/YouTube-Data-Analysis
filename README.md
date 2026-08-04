@@ -29,12 +29,13 @@ Analysis Performed
 
 The project includes:
 
-📈 Time Series Analysis of Likes & Comments
-👀 Total View Count Comparison
-❤️ Like-to-View Engagement Ratio
-💬 Likes vs Comments Scatterplots
-📊 Total Likes & Comments by Channel
-📺 Influencer Performance Comparison
+Time Series Analysis of Likes & Comments,
+Total View Count Comparison,
+Like-to-View Engagement Ratio,
+Likes vs Comments Scatterplots,
+Total Likes & Comments by Channel,
+Influencer Performance Comparison
+
 Key Findings
 Apple Watch Series 10 generated significantly greater market visibility and launch momentum.
 Samsung Galaxy Watch Ultra achieved higher audience engagement relative to its viewership.
@@ -51,7 +52,7 @@ Increase water resistance to better compete within the premium outdoor smartwatc
 
 These recommendations align with the Ideation stage of the Mount & Martinez (2014) framework.
 
-Technologies Used
+Technologies Used:
 Python
 Google Colab
 YouTube Data API v3
