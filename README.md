@@ -1,4 +1,6 @@
 ## 📊 Apple Watch vs Samsung Galaxy Watch Ultra: Social Media Analytics
+<img width="1600" height="1310" alt="image" src="https://github.com/user-attachments/assets/d51174ec-f8b5-48c7-afba-41b340fd9980" />
+
 ## Overview
 
 This project analyses YouTube engagement data to compare the Apple Watch Series 10 and the Samsung Galaxy Watch Ultra using social media analytics. The objective is to identify consumer engagement patterns and generate innovation opportunities by applying the Ideation stage of the Social Media for Open Innovation Implementation Framework (Mount & Martinez, 2014).
