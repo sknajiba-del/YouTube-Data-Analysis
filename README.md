@@ -51,6 +51,11 @@ Apple's online visibility relied heavily on a small number of high-profile techn
 
 --- 
 
+## 📌 Future Improvements
+For future, I will conduct a comprehensive sentiment analysis to analyse overall consumer engagement with comments and feedback. Compare the two products and develop an proper innovative ideation by aligning with Mount & Martinez (2014) framework.
+
+---
+
 ## Technologies Used:
 Python
 Google Colab
